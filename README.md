@@ -27,9 +27,9 @@ Analisis de Datos con Pandas/
 ```
 Ejecución
 1. Instala las dependencias necesarias:
-   ```bash
+```bash
    pip install pandas openpyxl
-
+```
 2.Ejecuta el programa
 ```
      python Analisis_de_datos_Pandas.py
@@ -43,4 +43,6 @@ Ejecución
         0 - Salir
 ```
 Autor
+```
 Creado por Claudio Herrera  — proyecto personal de práctica en análisis de datos con Pandas.
+```
